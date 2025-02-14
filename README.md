@@ -54,8 +54,8 @@ GRANT ALL PRIVILEGES ON DATABASE sanicpay TO sanic;
 ```
 
 ### **4. Настройте .env файл**
-Создайте `.env.local` файл в корне проекта.
-Просмотрите использование переменных в app/core/config.py !!!
+Создайте `.env.local` (можно и `.env`) файл в корне проекта.
+Просмотрите разное использование этих переменных в app/core/config.py !!!
 ```ini
 HOST=0.0.0.0
 PORT=8000
