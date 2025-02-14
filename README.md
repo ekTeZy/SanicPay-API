@@ -38,8 +38,6 @@ http://localhost:8000/
 ### **1. Установите Python 3.10 и создайте venv**
 ```sh
 python -m venv .venv
-source .venv/bin/activate  # Для Linux/macOS
-.venv\Scripts\activate     # Для Windows
 ```
 
 ### **2. Установите зависимости**
