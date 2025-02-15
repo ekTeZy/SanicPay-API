@@ -93,6 +93,7 @@ http://localhost:8000/
 ### **Обычный пользователь**
 - **Email:** `testuser@example.com`
 - **Пароль:** `testpassword`
+- **Баланс:** `100.0`
 
 ---
 
